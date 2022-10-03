@@ -9,7 +9,7 @@
 
 (A)預估震度 (B)抵達時間
 
-以Batch、LINE Notify開發
+以「地牛Wake Up」程式、Batch和LINE Notify開發
 
 
 
